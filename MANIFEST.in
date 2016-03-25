@@ -1,0 +1,5 @@
+include README* LICENSE
+
+exclude tests
+
+global-exclude *.py[co]
